@@ -1,5 +1,5 @@
 {
-  "name": "lista-de-contatos-redux",
+  "name": "contact-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
